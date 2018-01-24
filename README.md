@@ -1,5 +1,5 @@
 # SAHA-CPP-REST-Sample
-SAHA Web Interface CPP Sample based on Microsoft opensource CppRest library.
+SAHA web interface api documentation and cpp samples.
 
 # Dependency
 - Microsoft open source cross-platfrom CPP Rest SDK  [Microsoft CppRestSdk](https://github.com/Microsoft/cpprestsdk).
