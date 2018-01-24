@@ -3,7 +3,7 @@ SAHA web interface api documentation and cpp samples.
 
 # Dependency
 - Microsoft open source cross-platfrom CPP Rest SDK  [Microsoft CppRestSdk](https://github.com/Microsoft/cpprestsdk).
-- C++ 11 Compiler (This project tested successfully on vs2013)
+- C++ 11 compiler (This project tested successfully on vs2013)
 
 # Installation
 
