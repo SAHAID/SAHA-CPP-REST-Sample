@@ -1,16 +1,17 @@
-#SAHA-CPP-REST-Sample
+# SAHA-CPP-REST-Sample
 SAHA Web Interface CPP Sample based on Microsoft opensource CppRest library.
 
-#Dependency
+# Dependency
+[Microsoft CppRestSdk] (https://github.com/Microsoft/cpprestsdk)
+C++ 11 Compiler (This project tested successfully on vs2013)
+
+# Installation
 
 
-#Installation
+# Sample
 
 
-#Sample
-
-
-#License
+# License
 This package is released under the MIT license.
 
 Copyright (c) 2012-2017 Markus Poerschke
